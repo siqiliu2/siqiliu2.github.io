@@ -7,7 +7,7 @@ main:
     url: /teaching/    
     
   - title: "Portfolio"
-    url: "files/19portfolio.pdf"
+    url: "https://siqiliu2.github.io/files/19portfolio.pdf"
         
   - title: "Blog Posts"
     url: /year-archive/
