@@ -252,7 +252,7 @@ defaults:
       comments: true
   # _portfolio
   - scope:
-      path: ""
+      path: "https://siqiliu2.github.io/files/myportfolio.pdf"
       type: portfolio
     values:
       layout: single
