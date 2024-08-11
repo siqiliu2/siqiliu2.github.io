@@ -11,7 +11,6 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in college of Information Science and Technology, Pennsylvania State University, 2025
 * B.S. in Public Art, Sichuan Fine Art Institute, 2019
 
