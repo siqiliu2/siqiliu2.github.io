@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in college of Information Science and Technology, Pennsylvania State University, 2025
+* M.S. in Informatics, College of Information Science and Technology, Pennsylvania State University, 2025
 * B.S. in Public Art, Sichuan Fine Art Institute, 2019
 
 Work experience
