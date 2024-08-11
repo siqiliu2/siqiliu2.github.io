@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title_separator          : "-"
+title_separator          : "Siqi's Homepage"
 name                     : &name "Siqi Liu"
 description              : &description "personal description"
 url                      : https://siqiliu2.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -20,7 +20,7 @@ repository               : "siqiliu2.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : # "bio-photo-3.jpg"
+  avatar           : "3953273590_704e3899d5_m.jpg"
   name             : "Siqi Liu"
   pronouns         : # example: "she/her"  
   bio              : "Master Student, Pennsylvania State University"
