@@ -13,7 +13,7 @@ I am a second-year master's student in the College of IST at Penn State Universi
 
 Before joining IST, I worked for two years as a rehabilitation equipment analyst at Buffalo Intelligent Rehabilitation in Chengdu, China. There, I was responsible for transforming and processing data to ensure the completeness and validity of health records. I earned my B.S. degree from Sichuan Fine Arts Institute.
 
-In my free time, I like doing small art project, like drawing and painting, I also enjoy working out, lifting weights as heavy as I can. I find great joy in pushing my limits and discovering new strengths.
+In my free time, I like doing small art projects, like drawing and painting, I also enjoy working out, lifting weights as heavy as I can. I find great joy in pushing my limits and discovering new strengths.
 
 
 News
