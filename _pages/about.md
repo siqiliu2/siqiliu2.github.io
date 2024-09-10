@@ -18,4 +18,4 @@ In my free time, I like doing small art projects, like installation art and pain
 
 News
 ======
-2023
+2023 August 16 - I attended the 2024 Research Retreat with professors from College of Information Sciences and Technology and College of Communications
