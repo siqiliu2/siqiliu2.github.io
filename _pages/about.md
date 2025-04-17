@@ -19,6 +19,6 @@ In my free time, I like doing small art projects, like installation art and pain
 News
 ======
 2025 April 16 - I attended the AI Week 2025 Poster Session. Me and my teammates presented our research posters at the Research Forum. This poster session showcase recent advances in both foundational and applied artificial intelligence.
-https://ai.psu.edu/
+[Penn State AI Hub](https://ai.psu.edu/).
 
 2024 August 16 - I attended the 2024 Research Retreat with professors from College of Information Sciences and Technology and College of Communications.

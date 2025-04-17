@@ -1,20 +1,28 @@
 ---
-title: "Teaching experience 2"
+title: "Instructional Assistant"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Part-time"
+permalink: /teaching/2025-spring-teaching-1
+venue: "Pennsylvania State University, College of Information Sciences and Technology"
+date: 2025-01-01
+location: "State College, United States"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+• Assisted 42 students in building full-stack web applications by providing guidance on front-end
+technologies (HTML, CSS3, JavaScript, AJAX) and server-side development with NodeJS.
+• Supported project-based learning through one-on-one and group assistance, helping students debug
+code, understand client-server architecture, and apply web programming concepts in
+design-to-deployment workflows.
+• Supported students in designing and developing Android mobile applications using Android Studio,
+emphasizing user-centered design principles and mobile UI/UX standards.
+• Assisted with debugging application code, providing design feedback, and guiding students through
+usability testing and iterative design processes.
 
-Heading 1
-======
+# Heading 1
+# ======
 
-Heading 2
-======
+# Heading 2
+# ======
 
-Heading 3
-======
+# Heading 3
+# ======
